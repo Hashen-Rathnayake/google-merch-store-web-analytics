@@ -41,7 +41,7 @@ Google Analytics 4, Microsoft Excel
 - Estimated conversion rate of about 2.6%, with an average order value of $151
 
 ## Visuals
-![Demographic details by country](images/audience-by-country.png)
+![Demographic details by country](audience-by-country.png)
 *Active users, engagement rate and revenue by country*
 
 ![Weekday vs weekend active users](images/weekday-vs-weekend-chart.png)
