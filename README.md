@@ -24,9 +24,11 @@ Google Analytics 4, Microsoft Excel
 - Suggested recommendations covering 5 areas.
 
 ## Key Findings
-**Audience**
+**1.Audience**
+
 ![Demographic details by country](audience-by-country.png)
-                *Active users, engagement rate and revenue by country*
+*Active users, engagement rate and revenue by country*
+
 
 - The United States has more than four times the active users of India (the second-largest market) and contributes 93.2% of total revenue
 - India has a higher engagement rate (64.5%) than the US (62.7%) but generates only 0.46% of revenue
@@ -35,7 +37,9 @@ Google Analytics 4, Microsoft Excel
 ![Weekday vs weekend active users](weekday-vs-weekend-chart.png)
 *Average daily active users on weekdays and weekends*
 
-**Acquisition**
+
+**2.Acquisition**
+
 ![Traffic acquisition by channel](traffic-acquisition.png)
 *Traffic share, engagement rate and revenue by channel*
 
@@ -43,13 +47,14 @@ Google Analytics 4, Microsoft Excel
 - Email (74.8%) and referral (74.2%) have the highest engagement rates, compared with 57.0% for direct and 66.5% for organic search
 - Email generates a larger share of revenue (14.8%) than paid search (11.1%) despite far less traffic
 
-**Behaviour and conversion**
-- 1.47 million events, averaging 29 events per user, with 2 min 2 sec average engagement time
-- Only 17.7% of product list views lead to a product page view (368K list views vs 65K item views)
-  
+
+**3.Behaviour and conversion**
+
 ![Conversion by product](conversion-products.png)
 *View-to-cart and cart-to-purchase funnel*
 
+- 1.47 million events, averaging 29 events per user, with 2 min 2 sec average engagement time
+- Only 17.7% of product list views lead to a product page view (368K list views vs 65K item views)
 - 86% of product views lead to add-to-cart, but only 35% of carts convert to purchase, pointing to a checkout problem
 - Estimated conversion rate of about 2.6%, with an average order value of $151
 
