@@ -25,11 +25,20 @@ Google Analytics 4, Microsoft Excel
 
 ## Key Findings
 **Audience**
+![Demographic details by country](audience-by-country.png)
+                *Active users, engagement rate and revenue by country*
+
 - The United States has more than four times the active users of India (the second-largest market) and contributes 93.2% of total revenue
 - India has a higher engagement rate (64.5%) than the US (62.7%) but generates only 0.46% of revenue
 - Activity is consistently higher on weekdays than at weekends
 
+![Weekday vs weekend active users](weekday-vs-weekend-chart.png)
+*Average daily active users on weekdays and weekends*
+
 **Acquisition**
+![Traffic acquisition by channel](traffic-acquisition.png)
+*Traffic share, engagement rate and revenue by channel*
+
 - Direct (31.7%) and organic search (29.6%) bring the most traffic, while paid search brings 10.9%
 - Email (74.8%) and referral (74.2%) have the highest engagement rates, compared with 57.0% for direct and 66.5% for organic search
 - Email generates a larger share of revenue (14.8%) than paid search (11.1%) despite far less traffic
@@ -37,21 +46,12 @@ Google Analytics 4, Microsoft Excel
 **Behaviour and conversion**
 - 1.47 million events, averaging 29 events per user, with 2 min 2 sec average engagement time
 - Only 17.7% of product list views lead to a product page view (368K list views vs 65K item views)
+  
+![Conversion by product](conversion-products.png)
+*View-to-cart and cart-to-purchase funnel*
+
 - 86% of product views lead to add-to-cart, but only 35% of carts convert to purchase, pointing to a checkout problem
 - Estimated conversion rate of about 2.6%, with an average order value of $151
-
-## Visuals
-![Demographic details by country](audience-by-country.png)
-*Active users, engagement rate and revenue by country*
-
-![Weekday vs weekend active users](images/weekday-vs-weekend-chart.png)
-*Average daily active users on weekdays and weekends*
-
-![Traffic acquisition by channel](images/traffic-acquisition.png)
-*Traffic share, engagement rate and revenue by channel*
-
-![Conversion by product](images/conversion-products.png)
-*View-to-cart and cart-to-purchase funnel*
 
 ## Recommendations
 1. **Optimise the checkout process:** simplify the flow, and check which user groups abandon at the purchase step and whether unexpected tax or shipping costs are the cause
