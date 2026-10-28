@@ -37,7 +37,6 @@ Google Analytics 4, Microsoft Excel
 ![Weekday vs weekend active users](weekday-vs-weekend-chart.png)
 *Average daily active users on weekdays and weekends*
 
-
 **2.Acquisition**
 
 ![Traffic acquisition by channel](traffic-acquisition.png)
