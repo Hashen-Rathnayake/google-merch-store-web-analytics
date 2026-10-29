@@ -2,7 +2,7 @@
 
 Analysis of web traffic and user behaviour for the Google Merchandise Store (December 2025) to identify conversion drop-offs and recommend improvements.
 
-📄 **[Read the full report (PDF)](Google-Merch-Store-Web-Analytics-Report.pdf)**
+📄 **[Read the full report (PDF)](reprot/Google-Merch-Store-Web-Analytics-Report.pdf)**
 
 ## Business Problem
 The store attracts around 50,000 active users a month, but only about 2.6% of sessions end in a purchase. Where do users drop off and what should the business change to improve engagement, conversion and revenue?
@@ -26,21 +26,26 @@ Google Analytics 4, Microsoft Excel
 ## Key Findings
 **1.Audience**
 
-![Demographic details by country](audience-by-country.png)
-*Active users, engagement rate and revenue by country*
-
+  <p align="center">
+  <img src="images/audience-by-country.png" alt="Active users, engagement rate and revenue by country" width="700"><br>
+  <em>Active users, engagement rate and revenue by country</em>
+</p>
 
 - The United States has more than four times the active users of India (the second-largest market) and contributes 93.2% of total revenue
 - India has a higher engagement rate (64.5%) than the US (62.7%) but generates only 0.46% of revenue
 - Activity is consistently higher on weekdays than at weekends
 
-![Weekday vs weekend active users](weekday-vs-weekend-chart.png)
-*Average daily active users on weekdays and weekends*
+  <p align="center">
+  <img src="images/weekday-vs-weekend-chart.png" alt="Average daily active users on weekdays and weekends" width="700"><br>
+  <em>Average daily active users on weekdays and weekends</em>
+</p>
 
 **2.Acquisition**
 
-![Traffic acquisition by channel](traffic-acquisition.png)
-*Traffic share, engagement rate and revenue by channel*
+  <p align="center">
+  <img src="images/traffic-acquisition.png" alt="Traffic share, engagement rate and revenue by channel" width="700"><br>
+  <em>Traffic share, engagement rate and revenue by channel</em>
+</p>
 
 - Direct (31.7%) and organic search (29.6%) bring the most traffic, while paid search brings 10.9%
 - Email (74.8%) and referral (74.2%) have the highest engagement rates, compared with 57.0% for direct and 66.5% for organic search
@@ -49,8 +54,10 @@ Google Analytics 4, Microsoft Excel
 
 **3.Behaviour and conversion**
 
-![Conversion by product](conversion-products.png)
-*View-to-cart and cart-to-purchase funnel*
+  <p align="center">
+  <img src="images/conversion-products.png" alt="View-to-cart and cart-to-purchase funnel" width="700"><br>
+  <em>View-to-cart and cart-to-purchase funnel</em>
+</p>
 
 - 1.47 million events, averaging 29 events per user, with 2 min 2 sec average engagement time
 - Only 17.7% of product list views lead to a product page view (368K list views vs 65K item views)
