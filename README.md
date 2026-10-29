@@ -2,7 +2,7 @@
 
 Analysis of web traffic and user behaviour for the Google Merchandise Store (December 2025) to identify conversion drop-offs and recommend improvements.
 
-📄 **[Read the full report (PDF)](reprot/Google-Merch-Store-Web-Analytics-Report.pdf)**
+📄 **[Read the full report (PDF)](report/Google-Merch-Store-Web-Analytics-Report.pdf)**
 
 ## Business Problem
 The store attracts around 50,000 active users a month, but only about 2.6% of sessions end in a purchase. Where do users drop off and what should the business change to improve engagement, conversion and revenue?
